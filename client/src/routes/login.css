@@ -1,0 +1,33 @@
+.login-container {
+  max-width: 450px;
+  margin: 12% auto;
+}
+
+.login-heading {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.form {
+  margin: 1rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.form input {
+  /* margin: 0.7rem 0rem; */
+  padding: 0.8rem 1rem;
+  background-color: rgba(212, 211, 211, 0.536);
+  border: none;
+  border-radius: 10px;
+}
+
+.form button {
+  background-color: rgb(0, 124, 248);
+  color: #fff;
+  font-size: 1rem;
+  border-radius: 10px;
+  border-style: none;
+  padding: 0.8rem 1rem !important;
+  /* margin: 5rem; */
+}
